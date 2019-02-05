@@ -1,2 +1,2 @@
 # megavue
-this's my profetionnal repository
+let's begin !
