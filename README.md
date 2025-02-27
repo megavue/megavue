@@ -27,6 +27,8 @@
       <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&amp;logo=javascript&amp;logoColor=white" style="max-width: 100%;">
       <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-1572B6?style=flat-square&amp;logo=TypeScript&amp;logoColor=white" style="max-width: 100%;">
       <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" style="max-width: 100%;">
+      <img alt="Java" src="https://img.shields.io/badge/-Java-yellow?style=flat-square&amp;logo=java&amp;logoColor=white" style="max-width: 100%;">
+      <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring-boot-black?style=flat-square&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"> 
       <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
       <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
       <img alt="Webstorm" src="https://img.shields.io/badge/-WebStorm-black?style=flat-square&amp;logo=webstorm&amp;logoColor=white" style="max-width: 100%;">
