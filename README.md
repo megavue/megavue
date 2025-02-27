@@ -22,15 +22,15 @@
       </a>
    </div>
    <p dir="auto">
-	<img alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
-      <img alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3" style="max-width: 100%;"></a>
-      <img alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&amp;logo=javascript&amp;logoColor=white" style="max-width: 100%;"></a>
-      <img alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-1572B6?style=flat-square&amp;logo=TypeScript&amp;logoColor=white" style="max-width: 100%;"></a>
-      <img alt="Node.js" data-canonical-src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" style="max-width: 100%;"></a>
-      <img alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
-      <img alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
-      <img alt="Webstorm" data-canonical-src="https://img.shields.io/badge/-WebStorm-black?style=flat-square&amp;logo=webstorm&amp;logoColor=white" style="max-width: 100%;"></a>
-      <img alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&amp;logo=ubuntu&amp;logoColor=white" style="max-width: 100%;"></a>
+	<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
+      <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3" style="max-width: 100%;">
+      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&amp;logo=javascript&amp;logoColor=white" style="max-width: 100%;">
+      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-1572B6?style=flat-square&amp;logo=TypeScript&amp;logoColor=white" style="max-width: 100%;">
+      <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" style="max-width: 100%;">
+      <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
+      <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
+      <img alt="Webstorm" src="https://img.shields.io/badge/-WebStorm-black?style=flat-square&amp;logo=webstorm&amp;logoColor=white" style="max-width: 100%;">
+      <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&amp;logo=ubuntu&amp;logoColor=white" style="max-width: 100%;">
    </p>
    <br>
    <p dir="auto"><img alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=megavue&amp;theme=solarized" style="max-width: 100%;"></p>
